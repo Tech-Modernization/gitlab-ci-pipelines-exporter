@@ -20,5 +20,5 @@ require (
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20191120175047-4206685974f2
+	gopkg.in/yaml.v3 v3.0.0
 )
