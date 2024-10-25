@@ -16,7 +16,7 @@ require (
 	github.com/xanzy/go-gitlab v0.26.0
 	go.uber.org/atomic v1.5.1 // indirect
 	go.uber.org/ratelimit v0.1.0
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
